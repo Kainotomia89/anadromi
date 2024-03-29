@@ -5,4 +5,4 @@ https://myanadromi.wixsite.com/home
 # Application
 Prototype 15 οθόνες: https://www.figma.com/proto/zWRXSbuv4JwT1JWdI65fQI/Anadromi?type=design&node-id=2258-515&t=hHJpNpflCCSbRvM7-1&scaling=min-zoom&page-id=2%3A3&mode=design
 # Code 
-Ενδεικτικά δημιουργήθηκαν 2 οθόνες σε html: η αρχική και βασική οθόνη (σημερινό και παρελθοντικό πανόραμα) 
+Ενδεικτικά δημιουργήθηκαν 2 οθόνες σε html: η αρχική και h βασική οθόνη (σημερινό και παρελθοντικό πανόραμα) 
